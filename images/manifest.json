@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 795,
+    "id" : "https://aasg77.github.io/AASG-IIIF-Project/images/shn-02/canvas/",
+    "label" : {
+      "none" : [ "shn-02" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://aasg77.github.io/AASG-IIIF-Project/images/shn-02/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://aasg77.github.io/AASG-IIIF-Project/images/shn-02/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 25,
+              "height" : 39
+            }, {
+              "width" : 50,
+              "height" : 78
+            }, {
+              "width" : 100,
+              "height" : 156
+            }, {
+              "width" : 199,
+              "height" : 312
+            }, {
+              "width" : 398,
+              "height" : 623
+            }, {
+              "width" : 795,
+              "height" : 1246
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 795,
+            "@id" : "https://aasg77.github.io/AASG-IIIF-Project/images/shn-02",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1246
+          } ],
+          "format" : "image/jpeg",
+          "width" : 795,
+          "id" : "https://aasg77.github.io/AASG-IIIF-Project/images/shn-02/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1246
+        },
+        "target" : "https://aasg77.github.io/AASG-IIIF-Project/images/shn-02/canvas/"
+      } ]
+    } ],
+    "height" : 1246
+  }, {
     "width" : 905,
     "id" : "https://aasg77.github.io/AASG-IIIF-Project/images/shn-01/canvas/",
     "label" : {
