@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 29,
+    "height" : 40
+  }, {
+    "width" : 57,
+    "height" : 79
+  }, {
+    "width" : 114,
+    "height" : 158
+  }, {
+    "width" : 227,
+    "height" : 316
+  }, {
+    "width" : 453,
+    "height" : 631
+  }, {
+    "width" : 905,
+    "height" : 1262
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 905,
+  "@id" : "https://aasg77.github.io/AASG-IIIF-Project/images/shn-01",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1262
+}
